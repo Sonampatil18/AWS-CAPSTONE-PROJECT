@@ -69,17 +69,16 @@ Aspiring DevOps & Cloud Engineer 🚀
 
 ---
 
-# ⭐ Support This Repository
+If you like these projects:
 
 🌟 Star this repository  
 🍴 Fork this repository  
 📩 Connect with me  
-🚀 Explore the project PDFs
+🚀 Explore the project PDFs  
+
 ---
 
-⚡ “Automation transforms repetitive tasks into scalable cloud solutions.”
----
+⚡ *Automation transforms repetitive tasks into scalable cloud solutions.*
 
-# 🚀 Thanks for Visiting My Repository
-
+🚀 **Thanks for Visiting My Repository** 🚀
 
