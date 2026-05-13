@@ -96,7 +96,8 @@ Real-time Email/SMS architecture using AWS Lambda + SNS + S3.
 ✔ Docker Containerization  
 ✔ Python Scripting  
 ✔ IAM Security Best Practices  
-✔ Event-Driven Architecture
+✔ Event-Driven Architecture  
+
 ---
 
 # 📄 Project Documentation
