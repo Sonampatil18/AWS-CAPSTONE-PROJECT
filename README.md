@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🚀 AWS DevOps & Cloud Automation Projects
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
@@ -6,13 +8,12 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-Environment-black?style=for-the-badge&logo=linux)
 
-
-
 ## ☁️ Real-World AWS • DevOps • CI/CD • Serverless • Automation Projects
 
+</div>
+
+
 ---
-
-
 # ✨ About This Repository
 
 This repository contains **15 hands-on AWS & DevOps projects** focused on:
@@ -152,7 +153,7 @@ If you like these projects:
 
  <div align="center">
 
-# ⚡ Automation transforms repetitive tasks into scalable cloud solutions.
+# ⚡ "Automation transforms repetitive tasks into scalable cloud solutions."
 
 ### 🚀 Thanks for Visiting My Repository 🚀
 
