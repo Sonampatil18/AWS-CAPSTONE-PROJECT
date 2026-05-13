@@ -15,6 +15,24 @@
 
 ---
 # ✨ About This Repository
+# 📂 Featured Projects
+
+1. **Scalable Web App with ALB and Auto Scaling**  
+2. **Scalable Web App with NLB and Auto Scaling**  
+3. **Multi-tier Web App Deployment**  
+4. **Automate AWS Resource Provisioning**  
+5. **Use SDK to Automate Static Web Hosting**  
+6. **Automated Cost Optimizer**  
+7. **CI/CD Pipeline to Deploy Node.js Application**  
+8. **Containerized Flask Application**  
+9. **Serverless Image Resizer**  
+10. **Containerized Node.js Application**  
+11. **CI/CD Pipeline for Attendance Application**  
+12. **Deploy Bus Booking Application**  
+13. **LAMP Application Hosting**  
+14. **LEMP Application Hosting**  
+15. **Automate CI/CD Pipelines using Lambda**
+
 
 This repository contains **15 hands-on AWS & DevOps projects** focused on:
 
