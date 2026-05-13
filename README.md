@@ -57,15 +57,15 @@ Real-time Email/SMS architecture using AWS Lambda + SNS + S3.
 
 # 👨‍💻 About Me
 
-Hi, I'm **Vivek Chaudhari** 👋  
+Hi, I'm **Sonam Patil** 👋  
 Aspiring DevOps & Cloud Engineer 🚀
 
 ---
 
 # 🌐 Connect With Me
 
-📧 chaudharivivek2004@gmail.com  
-💼 https://linkedin.com/in/vivek-chaudhari-a033b6259
+📧 srpatil445@gmail.com  
+💼 https://linkedin.com/in/sonam-patil-a45512257
 
 ---
 
