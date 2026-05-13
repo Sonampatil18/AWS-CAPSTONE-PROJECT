@@ -9,7 +9,8 @@
 
 
 ## ☁️ Real-World AWS • DevOps • CI/CD • Serverless • Automation Projects
---
+
+---
 
 
 # ✨ About This Repository
@@ -35,8 +36,11 @@ This repository contains **15 hands-on AWS & DevOps projects** focused on:
 🔐 Security Configurations  
 📊 Monitoring Setup  
 🚀 CI/CD Workflow
-# ☁️ AWS Services Used
+
 ---
+
+# ☁️ AWS Services Used
+
 | Service | Purpose |
 |--------|---------|
 | AWS EC2 | Virtual Servers |
@@ -51,7 +55,7 @@ This repository contains **15 hands-on AWS & DevOps projects** focused on:
 
 ---
 # ⚙️ DevOps & Automation
----
+
 
 #### 🔄 CI/CD Pipeline Automation  
 #### 🚀 Automated Build / Test / Deploy  
@@ -102,7 +106,7 @@ Real-time Email/SMS architecture using AWS Lambda + SNS + S3.
 ---
 
 # 📄 Project Documentation
----
+
 Each project PDF contains:
 
 ✅ Architecture Overview  
@@ -135,7 +139,7 @@ Hi, I'm **Sonam Patil** 👋
 
 ---
 # ⭐ Support This Repository
----
+
 
 If you like these projects:
 
@@ -146,7 +150,10 @@ If you like these projects:
 
 ---
 
-#⚡ *Automation transforms repetitive tasks into scalable cloud solutions.*
+ <div align="center">
 
-🚀 **Thanks for Visiting My Repository** 🚀
+# ⚡ Automation transforms repetitive tasks into scalable cloud solutions.
 
+### 🚀 Thanks for Visiting My Repository 🚀
+
+</div>
