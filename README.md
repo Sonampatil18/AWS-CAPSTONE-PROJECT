@@ -49,7 +49,6 @@ This repository contains **15 hands-on AWS & DevOps projects** focused on:
 | AWS CodePipeline | CI/CD Automation |
 | AWS CodeBuild | Automated Build System | 
 
----
 # ⚙️ DevOps & Automation
 
 🔄 CI/CD Pipeline Automation  
