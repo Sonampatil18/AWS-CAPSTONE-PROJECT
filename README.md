@@ -53,13 +53,13 @@ This repository contains **15 hands-on AWS & DevOps projects** focused on:
 # ⚙️ DevOps & Automation
 ---
 
-###🔄 CI/CD Pipeline Automation  
-###🚀 Automated Build / Test / Deploy  
-###🐳 Docker Containerization  
-###🔗 GitHub Integration  
-###⚡ Event-Driven Workflows  
-###📦 Deployment Automation  
-###📊 Infrastructure Monitoring
+#### 🔄 CI/CD Pipeline Automation  
+#### 🚀 Automated Build / Test / Deploy  
+#### 🐳 Docker Containerization  
+#### 🔗 GitHub Integration  
+#### ⚡ Event-Driven Workflows  
+#### 📦 Deployment Automation  
+#### 📊 Infrastructure Monitoring
 ---
 
 # 📂 Featured Projects
